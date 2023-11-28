@@ -8,9 +8,9 @@ Este é um projeto de API REST desenvolvido com Spring Boot para gerenciar infor
 
 1. **Adicionar Entregador:** http://localhost:8080/entregadores 
 2. **Listar Entregadores:** http://localhost:8080/entregadores
-3. **Detalhes do Entregador: http://localhost:8080/entregadores/1 ou http://localhost:8080/entregadores/[numero de id que deseje pesquisar]
-4. **Atualizar Entregador: http://localhost:8080/entregadores/[numero de id que deseje alterar]
-5. **Remover Entregador:http://localhost:8080/entregadores/[numero de id que deseje remover]
+3. **Detalhes do Entregador: http://localhost:8080/entregadores/1 ou http://localhost:8080/entregadores/ [numero de id que deseje pesquisar]
+4. **Atualizar Entregador: http://localhost:8080/entregadores/ [numero de id que deseje alterar]
+5. **Remover Entregador:http://localhost:8080/entregadores/ [numero de id que deseje remover]
 
 ## Tecnologias Utilizadas
 
